@@ -1,0 +1,28 @@
+html, body {
+    background-color: #F4F5F6;
+}
+
+.mobile-nav {
+    background-color: #F72210;
+    z-index: 5;
+}
+
+.subscribe {
+    background-color: #FFE400;
+}
+
+.nav-right a {
+    color: #FDC8C3;
+}
+
+.desktop-nav {
+    background-color: #F72210;
+    z-index: 10;
+    max-width: 1310px;
+}
+
+.slide {
+    background-color: #F4F5F6;
+    z-index: 7;
+    height: 52px;
+}
