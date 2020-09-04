@@ -11,7 +11,7 @@ html, body {
     background-color: #FFE400;
 }
 
-.nav-right a {
+a {
     color: #FDC8C3;
 }
 
@@ -25,4 +25,16 @@ html, body {
     background-color: #F4F5F6;
     z-index: 7;
     height: 52px;
+}
+
+.weather {
+    color: white;
+}
+
+.weather :hover{
+    color: white;
+}
+
+.date {
+    color: #F4F5F6;
 }
