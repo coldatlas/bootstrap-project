@@ -2,6 +2,10 @@ html, body {
     background-color: #F4F5F6;
 }
 
+.container {
+    max-width: 1310px;
+}
+
 .mobile-nav {
     background-color: #F72210;
     z-index: 5;
@@ -24,7 +28,7 @@ a {
 .slide {
     background-color: #F4F5F6;
     z-index: 7;
-    height: 52px;
+    height: 104px;
 }
 
 .weather {
@@ -37,4 +41,56 @@ a {
 
 .date {
     color: #F4F5F6;
+}
+
+.nav-link {
+    color: black;
+}
+
+.form-search {
+    width: 100px;
+}
+
+a:hover {
+    color: red;
+}
+
+.trending-nav a {
+    color: grey;
+}
+
+.trending-nav a:hover {
+    color: red;
+}
+
+h6 {
+    color: grey;
+}
+
+.pic-tag {
+   bottom: 0;
+   opacity: 80%;
+   color: #F72210;
+}
+
+.mcconnell2 {
+    width: 95px;
+    height: 95px;
+}
+
+.debate1 {
+    width: 65px;
+    height: 65px;
+}
+
+.vs {
+    width: 36px;
+    height: 36px;
+    left: 47%;
+    top: 55%;
+}
+
+.debate {
+    max-height: 270px;
+    min-height: 270px;
 }
