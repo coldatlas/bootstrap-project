@@ -82,7 +82,7 @@ h6 {
     width: 36px;
     height: 36px;
     left: 47%;
-    top: 155px;
+    top: 52%;
 }
 
 .debate1 {
@@ -96,10 +96,18 @@ h6 {
     background-color: #F72210;
     height: 29px;
     width: 29px;
+    background-repeat: no-repeat;
     
     
 }
 
 .email-sign {
     background-color: #F4F5F6;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 990px){
+    .last-cards {
+        width: 50%;
+        
+    }
 }
