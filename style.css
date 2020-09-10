@@ -1,5 +1,6 @@
 html, body {
     background-color: #F4F5F6;
+    min-width: 460px;
 }
 
 .container {
@@ -77,20 +78,17 @@ h6 {
     width: 95px;
     height: 95px;
 }
+.vs {
+    width: 36px;
+    height: 36px;
+    left: 47%;
+    top: 155px;
+}
 
 .debate1 {
     width: 65px;
     height: 65px;
 }
 
-.vs {
-    width: 36px;
-    height: 36px;
-    left: 47%;
-    top: 55%;
-}
 
-.debate {
-    max-height: 270px;
-    min-height: 270px;
-}
+
