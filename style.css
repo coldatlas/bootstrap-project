@@ -15,6 +15,7 @@ body {
 
 .subscribe {
   background-color: #ffe400;
+  color: black;
 }
 
 a {
@@ -114,3 +115,17 @@ h6 {
   width: 235px;
   height: auto;
 }
+
+.footer-subscribe {
+  background-color: #F4F5F6;
+}
+
+.indepth {
+  left: 25%;
+  top: 70%;
+}
+
+h5 {
+  color: #F72210;
+}
+
