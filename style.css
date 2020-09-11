@@ -111,6 +111,18 @@ h6 {
   }
 }
 
+@media only screen and (max-width: 768px) {
+  .subscribe-img {
+    position: relative;
+    margin-left: 10%;
+  }
+
+  .indepth {
+    position: absolute;
+    right: 30%;
+  }
+}
+
 .footer-logo {
   width: 235px;
   height: auto;
@@ -127,4 +139,8 @@ h6 {
 
 h5 {
   color: #f72210;
+}
+
+.footer-subscribe button {
+  margin-left: 25%;
 }
