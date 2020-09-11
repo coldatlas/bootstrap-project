@@ -18,6 +18,7 @@ html, body {
 
 a {
     color: #FDC8C3;
+    color: inherit;
 }
 
 .desktop-nav {
@@ -36,7 +37,7 @@ a {
     color: white;
 }
 
-.weather :hover{
+.weather:hover{
     color: white;
 }
 
