@@ -72,7 +72,7 @@ h6 {
 
 .pic-tag {
   bottom: 0;
-  opacity: 80%;
+  opacity: 0.8;
   color: #f72210;
 }
 
@@ -80,6 +80,7 @@ h6 {
   width: 95px;
   height: 95px;
 }
+
 .vs {
   width: 36px;
   height: 36px;
@@ -94,7 +95,6 @@ h6 {
 
 .email-logo {
   background: url(https://g.newsweek.com/www/images/logo-n1.svg) #f72210;
-  background-repeat: none;
   background-color: #f72210;
   height: 29px;
   width: 29px;
@@ -110,8 +110,7 @@ h6 {
     width: 50%;
   }
 }
-footer {
-}
+
 .footer-logo {
   width: 235px;
   height: auto;
