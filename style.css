@@ -1,121 +1,118 @@
-html, body {
-    background-color: #F4F5F6;
-    min-width: 460px;
+html,
+body {
+  background-color: #f4f5f6;
+  min-width: 460px;
 }
 
 .container {
-    max-width: 1310px;
+  max-width: 1310px;
 }
 
 .mobile-nav {
-    background-color: #F72210;
-    z-index: 5;
+  background-color: #f72210;
+  z-index: 5;
 }
 
 .subscribe {
-    background-color: #FFE400;
+  background-color: #ffe400;
 }
 
 a {
-    color: #FDC8C3;
-    color: inherit;
+  color: #fdc8c3;
+  color: inherit;
 }
 
 .desktop-nav {
-    background-color: #F72210;
-    z-index: 10;
-    max-width: 1310px;
+  background-color: #f72210;
+  z-index: 10;
+  max-width: 1310px;
 }
 
 .slide {
-    background-color: #F4F5F6;
-    z-index: 7;
-    height: 104px;
+  background-color: #f4f5f6;
+  z-index: 7;
+  height: 104px;
 }
 
 .weather {
-    color: white;
+  color: white;
 }
 
-.weather:hover{
-    color: white;
+.weather:hover {
+  color: white;
 }
 
 .date {
-    color: #F4F5F6;
+  color: #f4f5f6;
 }
 
 .nav-link {
-    color: black;
+  color: black;
 }
 
 .form-search {
-    width: 100px;
+  width: 100px;
 }
 
 a:hover {
-    color: red;
+  color: red;
 }
 
 .trending-nav a {
-    color: grey;
+  color: grey;
 }
 
 .trending-nav a:hover {
-    color: red;
+  color: red;
 }
 
 h6 {
-    color: grey;
+  color: grey;
 }
 
 .pic-tag {
-   bottom: 0;
-   opacity: 80%;
-   color: #F72210;
+  bottom: 0;
+  opacity: 80%;
+  color: #f72210;
 }
 
 .mcconnell2 {
-    width: 95px;
-    height: 95px;
+  width: 95px;
+  height: 95px;
 }
 .vs {
-    width: 36px;
-    height: 36px;
-    left: 47%;
-    top: 52%;
+  width: 36px;
+  height: 36px;
+  left: 47%;
+  top: 52%;
 }
 
 .debate1 {
-    width: 65px;
-    height: 65px;
+  width: 65px;
+  height: 65px;
 }
 
 .email-logo {
-    background: url(https://g.newsweek.com/www/images/logo-n1.svg) #f72210;
-    background-repeat: none;
-    background-color: #F72210;
-    height: 29px;
-    width: 29px;
-    background-repeat: no-repeat;
-    
-    
+  background: url(https://g.newsweek.com/www/images/logo-n1.svg) #f72210;
+  background-repeat: none;
+  background-color: #f72210;
+  height: 29px;
+  width: 29px;
+  background-repeat: no-repeat;
 }
 
 .email-sign {
-    background-color: #F4F5F6;
+  background-color: #f4f5f6;
 }
 
-@media only screen and (min-width: 768px) and (max-width: 990px){
-    .last-cards {
-        width: 50%;
-        
-    }
+@media only screen and (min-width: 768px) and (max-width: 990px) {
+  .last-cards {
+    width: 50%;
+  }
 }
 footer {
-
 }
 .footer-logo {
-    width: 235px;
-    height: auto;
+  width: 235px;
+  height: auto;
 }
