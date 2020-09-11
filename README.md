@@ -1,6 +1,6 @@
 ## Bootstrap project
 
-![screenshot](./project-screenshot.PNG)
+![screenshot](./images/project-screenshot.PNG)
 
 </h1>This project is a clone of Newsweek ( www.newsweek.com ).It's responsive to both Mobile & Ipad view and includes two breakpoints md and lg.
 
